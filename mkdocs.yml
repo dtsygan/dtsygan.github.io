@@ -7,7 +7,6 @@ theme:
 nav:
  - About website: index.md
  - API Docs structure: structure.md
- - Tools, which we studied: tools.md
  - API reference: dist/index.html
- - My job after course: for_me.md
+ - My review: for_me.md
 
