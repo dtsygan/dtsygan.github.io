@@ -1,13 +1,14 @@
 site_name: My Docs for API course
 
 theme:
-  name: material
+  name: material # https://squidfunk.github.io/mkdocs-material/
   favicon: logo.png
 
 plugins:
    - swagger-ui-tag
 
 nav:
+ - ITSM: financial management_1.md
  - About website: index.md
  - API Docs structure: structure.md
  - API reference: dist/index.html
